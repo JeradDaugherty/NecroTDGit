@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Managers\GameManager.cs">
+    <Files>
+      <File FileName="Assets\scripts\Enemies\BaseEnemy.cs" Line="48" Column="3" />
+      <File FileName="Assets\scripts\Enemies\TrackingEnemy.cs" Line="91" Column="4" />
+      <File FileName="Assets\scripts\Hero_And_Health\StaffScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Managers\UITrapManager.cs" Line="36" Column="24" />
+      <File FileName="Assets\scripts\Hero_And_Health\BulletScript.cs" Line="29" Column="2" />
+      <File FileName="Assets\scripts\Enemies\EnemyAI.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Enemies\EnemyProjectile.cs" Line="10" Column="23" />
+      <File FileName="Assets\scripts\DestroyAfterSeconds.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Hero_And_Health\HealthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Enemies\ShootingTrackingEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Hero_And_Health\DamageTrap.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Managers\UIManager.cs" Line="79" Column="3" />
+      <File FileName="Assets\scripts\Managers\GameManager.cs" Line="96" Column="20" />
+      <File FileName="Assets\scripts\Enemies\MissleSpawn.cs" Line="73" Column="19" />
+      <File FileName="Assets\scripts\Enemies\PigMissles.cs" Line="33" Column="3" />
+      <File FileName="Assets\scripts\Hero_And_Health\HeroController.cs" Line="55" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="G:\PROTOTYPEFORGAMESLEVELDESIGNCONCEPTS\FinalProject\Assets\scripts\Enemies\TrackingEnemy.cs" line="25" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
